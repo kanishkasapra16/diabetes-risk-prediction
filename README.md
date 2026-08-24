@@ -4,8 +4,7 @@ An interactive machine learning web application that predicts the estimated risk
 
 ## 🚀 Live Demo
 
-🔗 LIVE_APP_URL
-
+🔗 https://diabetes-risk-prediction-a3ecwhxqrxea42cy2yxllk.streamlit.app/?utm_source=chatgpt.com
 ## 📌 Project Overview
 
 This project uses machine learning to analyze patient health information and estimate the probability of diabetes risk. Users can enter health-related parameters through an interactive web interface and receive an instant prediction.
